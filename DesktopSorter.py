@@ -1,3 +1,8 @@
+'''-----------------------#
+Nathan R. Schober         |
+02/17/2024 - 02/17/2024   |
+Desktop Startup           |
+------------------------'''
 
 import pygetwindow as gw
 import subprocess
